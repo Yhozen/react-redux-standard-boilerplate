@@ -27,4 +27,4 @@ module.exports = {
   },
   setupTestFrameworkScriptFile: '<rootDir>/config/test-setup.js',
   testRegex: 'tests/.*\\.test\\.js$'
-};
+}

@@ -1,8 +1,8 @@
-import React from 'react';
-import './style.scss';
+import React from 'react'
+import './style.scss'
 
 const LoadingIndicator = () => (
-  <div className="loading-indicator">
+  <div className='loading-indicator'>
     <div />
     <div />
     <div />
@@ -12,6 +12,6 @@ const LoadingIndicator = () => (
     <div />
     <div />
   </div>
-);
+)
 
-export default LoadingIndicator;
+export default LoadingIndicator
